@@ -1,0 +1,9 @@
+# Xcode
+xcuserdata
+*.xcworkspace
+
+works
+data
+
+*.ods#
+.DS_Store
